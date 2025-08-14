@@ -8,6 +8,3 @@ Alan Mathison Turing was an English mathematician, computer scientist, logician,
 
 ## Sources
  - https://en.wikipedia.org/wiki/Turing_test 
- - 
- -
- -
