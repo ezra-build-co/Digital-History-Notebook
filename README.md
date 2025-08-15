@@ -11,13 +11,14 @@
     - Once the content is in the file, you will need to push it back to GitHub
 Report Status (These questions need to be answered for part of your grade):
 - 1.1: What command did you use to bring the repository to your local machine?
-Answer: git clone https://github.com/ezra-build-co/Digital-History-Notebook.git
+    - Answer: git clone https://github.com/ezra-build-co/Digital-History-Notebook.git
 - 1.2: What was your first commit message to push this file to GitHub?
     - Answer: added assignment
-    - Assignment 2: The Founding Visionaries
 
-Now, let's begin documenting the pioneers of our field. You will create files for two key figures.
-- Instructions:
+Assignment 2: The Founding Visionaries
+
+- Now, let's begin documenting the pioneers of our field. You will create files for two key figures.
+-   Instructions:
     - On your local machine, create a new file named ada-lovelace.md.
     - In this file, research and write a short paragraph about her contributions to early computing. (Cite those sources!)
     - Create a second new file named alan-turing.md.
@@ -29,9 +30,9 @@ Now, let's begin documenting the pioneers of our field. You will create files fo
 
 Report Status:
 - 2.1: What two file names did you create?
-    - Answer:
+    - Answer: ada-lovelace.md adn alan-turing.md
 - 2.2: What was your commit message?
-    - Answer:
+    - Answer: push before leaving school
 
 Assignment 3: A Timeline of the Internet
 - To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
@@ -143,3 +144,13 @@ Submission Instructions
 - A link to your public Digital-History-Notebook repository.
 - A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 - Be sure to answer the questions above as well.
+
+
+## Timeline: The Rise of the Internet.
+- 
+-
+-
+-
+-
+-
+-
