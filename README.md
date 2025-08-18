@@ -30,9 +30,9 @@ Assignment 2: The Founding Visionaries
 
 Report Status:
 - 2.1: What two file names did you create?
-    - Answer: ada-lovelace.md adn alan-turing.md
+    - Answer:
 - 2.2: What was your commit message?
-    - Answer: push before leaving school
+    - Answer:
 
 Assignment 3: A Timeline of the Internet
 - To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
@@ -144,13 +144,3 @@ Submission Instructions
 - A link to your public Digital-History-Notebook repository.
 - A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 - Be sure to answer the questions above as well.
-
-
-## Timeline: The Rise of the Internet.
-- 
--
--
--
--
--
--
