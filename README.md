@@ -148,10 +148,10 @@ Submission Instructions
 - Be sure to answer the questions above as well.
 
 ## Timeline: The Rise of the Internet.
-- 
--
--
--
--
--
+- Microsoft founded 1975
+- Nvidia founded 1993 
+- Google founded 1998
+- AWS founded 2002  
+- Facebook founded 2004
+- Youtube founded 2005 
 -
